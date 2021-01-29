@@ -81,7 +81,7 @@ CONFIG_PACKAGE_luci-app-cpufreq=y
 CONFIG_PACKAGE_luci-app-ipsec-vpnd=y
 CONFIG_PACKAGE_luci-app-zerotier=y
 CONFIG_PACKAGE_v2ray=y
-CONFIG_PACKAGE_luci-app-uugamebooster=y
+#CONFIG_PACKAGE_luci-app-uugamebooster=y
 CONFIG_PACKAGE_shadowsocks-libev-ss-redir=y
 CONFIG_PACKAGE_shadowsocksr-libev-server=y
 EOF
