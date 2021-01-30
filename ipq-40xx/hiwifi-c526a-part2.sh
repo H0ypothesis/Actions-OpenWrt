@@ -79,7 +79,6 @@ CONFIG_PACKAGE_luci-app-accesscontrol=y
 CONFIG_PACKAGE_luci-app-cpufreq=y
 CONFIG_PACKAGE_luci-app-ipsec-vpnd=y
 CONFIG_PACKAGE_luci-app-zerotier=y
-CONFIG_PACKAGE_v2ray=y
 EOF
 
 # 常用软件 默认已启用
